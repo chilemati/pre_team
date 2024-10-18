@@ -5,6 +5,7 @@ const Home = () => {
     <div>
        
         {/* chile home section1 */}
+        <p> Home Section1 </p>
         {/* chidinma home section2 */}
         {/* fatima home section3 */}
         {/* aduraleke home section4 */}
