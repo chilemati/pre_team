@@ -6,7 +6,7 @@ const Home = () => {
        
         {/* chile home section1 */}
         {/* Chidinma home section2 */}
-        <p> Home Section2 </p>
+        <p> Home Section2 updated </p>
         {/* fatima home section3 */}
         {/* aduraleke home section4 */}
         {/* omolola home section5 */}
